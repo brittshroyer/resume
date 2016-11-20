@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lalezar', cursive;
+}
+#wrapper{
+  width: 90%;
+  margin: 15px auto;
+}
+header{
+  width: 100%;
+  background-color: #C7C399;
+  border-radius: 5px;
+}
+#intro{
+  display: inline-block;
+}
+nav{
+  display: inline-block;
+  float: right;
+}
+ul{
+  list-style-type: none;
+  margin-right: 0;
+}
+li {
+  display: inline-block;
+  padding: 15px;
+}
+h1{
+  font-size: 55px;
+  width: 700px;
+  margin-bottom:0;
+  padding-left: 15px;
+}
+main{
+  background-image: contain;
+}
